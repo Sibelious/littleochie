@@ -12,6 +12,20 @@
 
 /* ===== Flip Hover Effect ===== */
 
+.Coast .flip-front{
+
+	background-image: url(../images/coast.jpg);
+	background-repeat: no-repeat;
+}
+
+.Fishy .flip-front{
+	background-image: url(../images/fishy.jpg);
+	background-repeat: no-repeat;
+}
+.cockTail .flip-front{
+	background-image: url(../images/cocktail.jpg);
+	background-repeat: no-repeat;
+}
 .flip {
     position: relative;
     -webkit-perspective: 1000;
